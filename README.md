@@ -131,3 +131,6 @@ Flags:
   -e, --zip-enc string      Encrypt method: [standard, AES128, AES192, AES256]
       --zip-passwd string   Zip password
 ```
+
+## 0x99 Reference
+[1] https://github.com/ptoomey3/evilarc.git
