@@ -19,5 +19,5 @@ app:
 		echo "Build $${os}-$${arch} done";\
 	)
 	@mv ./release/evilarc_windows_386 ./release/evilarc_windows_386.exe
-	@mv ./release/evilarc_windows_arm64 ./release/evilarc_windows_amd64.exe
+	@mv ./release/evilarc_windows_arm64 ./release/evilarc_windows_arm64.exe
 	@mv ./release/evilarc_windows_amd64 ./release/evilarc_windows_amd64.exe
