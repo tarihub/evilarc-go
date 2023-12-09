@@ -24,6 +24,7 @@ go.work
 .idea/
 release/
 test/
+bin/
 
 .DS_Store
 *.zip

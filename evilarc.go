@@ -16,7 +16,7 @@ var rootCmd = &cobra.Command{
 	Run: func(cmd *cobra.Command, args []string) {
 		version, _ := cmd.Flags().GetBool("version")
 		if version {
-			fmt.Println("evilarc v2.1")
+			fmt.Println("evilarc_v2.1")
 		} else {
 			_ = cmd.Help()
 		}
